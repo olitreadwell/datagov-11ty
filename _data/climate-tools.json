@@ -17,7 +17,7 @@
     "sponsor": "EPA",
     "url": "http://water.epa.gov/infrastructure/watersecurity/climate/creat.cfm",
     "summary": "CREAT assists drinking water and wastewater utility owners and operators in understanding potential climate change threats and in assessing the related risks at their individual utilities. CREAT provides users with access to the most recent national assessment of climate change impacts for use in considering how these changes will impact utility operations and missions.",
-    "howitworks": "CREAT provides three climate scenarios that provide localized projections on temperature, annual precipitation, intense precipitation events, and sea level rise. Using either this data, or by inputing other climate projections, users identify threats to assets over different time periods. Users then weigh risks, costs, and other metrics when comparing adaptation options and packages.",
+    "howitworks": "CREAT provides three climate scenarios that provide localized projections on temperature, annual precipitation, intense precipitation events, and sea level rise. Using either this data, or by inputting other climate projections, users identify threats to assets over different time periods. Users then weigh risks, costs, and other metrics when comparing adaptation options and packages.",
     "application": "Water utilities can plan and prepare for climate change impacts that threaten assets and operations.",
     "preview": null
   },
@@ -188,7 +188,7 @@
     "url": "http://www.csc.noaa.gov/slr",
     "summary": "Being able to visualize potential impacts from sea level rise is a powerful teaching and planning tool, and the Sea Level Rise Viewer brings this capability to coastal communities. A slider bar is used to show how various levels of sea level rise will impact coastal communities. Additional coastal counties will be added in the near future. Maps are not available for Alaska due to elevation data accuracy and vertical datum transformation gaps.",
     "howitworks": "Displays potential future sea levels. Provides simulations of sea level rise at local landmarks. Communicates the spatial uncertainty of mapped sea levels. Models potential marsh migration due to sea level rise. Overlays social and economic data onto potential sea level rise. Examines how tidal flooding will become more frequent with sea level rise",
-    "application": "Many agencies, states, communties using for education and ourtreach. Inundation layers are being used for adaptation planning and vulnerability assessments of potential SLR impacts.",
+    "application": "Many agencies, states, communities using for education and outreach. Inundation layers are being used for adaptation planning and vulnerability assessments of potential SLR impacts.",
     "preview": null
   },
   "Sea Level Trends": {
@@ -197,9 +197,9 @@
     "description": " Illustrates regional trends in sea level, with arrows representing the direction and magnitude of change. Click on an arrow to access additional information about that station.\n",
     "sponsor": "NOAA",
     "url": "http://tidesandcurrents.noaa.gov/sltrends/sltrends.html",
-    "summary": "The Center for Operational Oceanographic Products and Services has been measuring sea level for over 150 years, with tide stations of the National Water Level Observation Network operating on all U.S. coasts. Changes in Mean Sea Level (MSL), either a sea level rise or sea level fall, have been computed at 128 long-term water level stations using a minimum span of 30 years of observations at each location. These measurements have been averaged by month to remove the effect of higher frequency phenomena (e.g. storm surge) in order to compute an accurate linear sea level trend. The trend analysis has also been extended to 240 global tide stations using data from thePermanent Service for Mean Sea Level (PSMSL).",
-    "howitworks": "Use map viewer to explore individual tide gages. Arrows represent the direction and magitude of sea level change.",
-    "application": "The mean sea level (MSL) trends measured by tide gauges that are presented on this web site are local relative MSL trends as opposed to the global sea level trend. Tide gauge measurements are made with restpect to a local fixed reference level on land; therefore, if there is some long-term vertical land motion occurring at that location, the relative MSL trend measured there is a combination of the global sea level rate and the local vertical land motion.",
+    "summary": "The Center for Operational Oceanographic Products and Services has been measuring sea level for over 150 years, with tide stations of the National Water Level Observation Network operating on all U.S. coasts. Changes in Mean Sea Level (MSL), either a sea level rise or sea level fall, have been computed at 128 long-term water level stations using a minimum span of 30 years of observations at each location. These measurements have been averaged by month to remove the effect of higher frequency phenomena (e.g. storm surge) in order to compute an accurate linear sea level trend. The trend analysis has also been extended to 240 global tide stations using data from the Permanent Service for Mean Sea Level (PSMSL).",
+    "howitworks": "Use map viewer to explore individual tide gages. Arrows represent the direction and magnitude of sea level change.",
+    "application": "The mean sea level (MSL) trends measured by tide gauges that are presented on this web site are local relative MSL trends as opposed to the global sea level trend. Tide gauge measurements are made with respect to a local fixed reference level on land; therefore, if there is some long-term vertical land motion occurring at that location, the relative MSL trend measured there is a combination of the global sea level rate and the local vertical land motion.",
     "preview": null
   },
   "Surging Seas": {
@@ -220,7 +220,7 @@
     "sponsor": "NOAA",
     "url": "https://www.coast.noaa.gov/digitalcoast/tools/inventory",
     "summary": "The project is a collaborative effort of NOAA and the U.S. Geological Survey, with contributions from the Federal Emergency Management Agency. This resource is a comprehensive, nationwide listing of known high-accuracy topographic data, including lidar and IfSAR, and bathymetric data, including NOAA hydrographic surveys, multibeam data, and bathymetric lidar. This inventory was completed August 2013 and will be updated annually.",
-    "howitworks": "Provides and index of elevation data. Includes both topographic and bathymetric data and covers the entire nation. Allows users to query by county or zoom to an area of interest and print a report",
+    "howitworks": "Provides an index of elevation data. Includes both topographic and bathymetric data and covers the entire nation. Allows users to query by county or zoom to an area of interest and print a report",
     "application": "Used to locate high-accuracy elevation and topographic data resources.",
     "preview": null
   }
