@@ -58,7 +58,7 @@ You can browse on the right side through various filters to narrow the results. 
 
 You can also search for datasets by Geography, such as a zip code.
 
-![Data.gov catalog seach by location]({{ "/_img/dg-user-guide_search-geography.png" | url }} "Data.gov catalog seach by location")
+![Data.gov catalog search by location]({{ "/_img/dg-user-guide_search-geography.png" | url }} "Data.gov catalog search by location")
 
 Once you find a dataset or tool of interest, click on the title and you will be taken to a page with more details on that specific dataset or tool.
 

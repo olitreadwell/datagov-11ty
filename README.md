@@ -37,7 +37,7 @@ Add single pages to the `pages/` folder and set the `permalink` in the front mat
 
 A weekly QA cron job tests for broken links. Errors are added to the 📌 Link Checker Report. Add false positives to `.lycheeignore`.
 
-Run locally with [lychee](https://lychee.cli.rs/installation/):
+Run locally with [lychee](https://lychee.cli.rs/):
 
     lychee --base=https://data.gov .
 
